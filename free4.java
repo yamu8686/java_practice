@@ -7,7 +7,7 @@ class main {
 
     System.out.println(f0);
 
-    while (f1 <100000) {
+    while (f1 <10000) {
       System.out.println(f1);
 
       f2 = f0 + f1;
